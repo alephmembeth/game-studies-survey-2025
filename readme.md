@@ -1,4 +1,4 @@
-# Survey Game Studies
+# Game Studies Survey
 
 This is a repository for a survey on methods used in German-speaking game studies by Lukas Daniel Klausner, Tobias Unterhuber, and me.
 
